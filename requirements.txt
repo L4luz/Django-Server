@@ -8,6 +8,6 @@ scikit-learn
 pandas
 numpy
 nltk
-wordc lound 
+wordcloud 
 regex
 gensim
